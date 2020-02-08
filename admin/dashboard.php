@@ -11,7 +11,7 @@ include "topnav.php";
                 <a href="director_list.php" class="text-white">Director</a>
             </div>
             <div class="col-sm-2" style="padding:50px;background: orange;border-radius: 10px; margin:10px;">
-                <a href="" class="text-white">Celebrities</a>
+                <a href="list_celeb.php" class="text-white">Celebrities</a>
             </div>
             <div class="col-sm-2" style="padding:50px;background: green;border-radius: 10px; margin:10px;">
                 <a href="" class="text-white">Users</a>
