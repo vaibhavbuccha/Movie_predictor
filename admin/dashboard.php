@@ -17,7 +17,7 @@ include "topnav.php";
                 <a href="" class="text-white">Users</a>
             </div>
             <div class="col-sm-2" style="padding:50px;background: brown;border-radius: 10px; margin:10px;">
-                <a href="" class=" text-white">Movies</a>
+                <a href="movie_listing.php" class=" text-white">Movies</a>
             </div>
             <div class="col-sm-2" style="padding:50px;background: gray;border-radius: 10px; margin:10px;">
                 <a href="" class=" text-white">Reviews</a>
